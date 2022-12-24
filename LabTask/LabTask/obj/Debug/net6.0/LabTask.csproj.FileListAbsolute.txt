@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\bin\Debug\net6.0\LabTask.exe
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\bin\Debug\net6.0\LabTask.deps.json
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\bin\Debug\net6.0\LabTask.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\bin\Debug\net6.0\LabTask.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\bin\Debug\net6.0\LabTask.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\obj\Debug\net6.0\LabTask.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\obj\Debug\net6.0\LabTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\obj\Debug\net6.0\LabTask.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\obj\Debug\net6.0\LabTask.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\obj\Debug\net6.0\LabTask.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\obj\Debug\net6.0\LabTask.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\obj\Debug\net6.0\refint\LabTask.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\obj\Debug\net6.0\LabTask.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\obj\Debug\net6.0\LabTask.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\LabTask\LabTask\obj\Debug\net6.0\ref\LabTask.dll
